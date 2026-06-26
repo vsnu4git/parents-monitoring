@@ -41,3 +41,14 @@ yarn-error.log*
 next-env.d.ts
 
 /app/generated/prisma
+
+# mobile app
+/mobile/node_modules
+/mobile/.expo
+/mobile/dist
+
+# sensitive files
+cookie.txt
+
+# root expo cache
+.expo
